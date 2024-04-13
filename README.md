@@ -7,6 +7,8 @@ Then simply run them. The dependencies are the same as [TAP official Repo](https
 **All 12 GNN models with their enhanced version (-cp) are included.**
 
 
-## Results
+
+
+## Results (Please view the folder ```\visualization``` for more results )
 ![](https://github.com/XiwenChen-Clemson/Incident-GNN-CP/blob/main/Figs/r1.jpg)
 ![](https://github.com/XiwenChen-Clemson/Incident-GNN-CP/blob/main/Figs/r2.jpg)
