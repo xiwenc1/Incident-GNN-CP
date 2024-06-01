@@ -2,8 +2,8 @@
 The official code for the paper: Enhancing Graph Neural Networks in Large-scale Traffic Incident Analysis with Concurrency Hypothesis
 
 ## How to run
-Put the code ```maincls-city.py``` and ```maincls-state.py``` to the folder ```code``` in [TAP official Repo](https://github.com/baixianghuang/travel).
-Then simply run them. The dependencies are the same as [TAP official Repo](https://github.com/baixianghuang/travel).
+Put the code to the folder ```code``` in [TAP official Repo](https://github.com/baixianghuang/travel).
+Then simply run them (```maincls-city.py``` and ```maincls-state.py```) for city-wise prediction and state-wise prediction. The dependencies are the same as [TAP official Repo](https://github.com/baixianghuang/travel).
 **All 12 GNN models with their enhanced version (-cp) are included.**
 
 
